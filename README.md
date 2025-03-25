@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eutolv&show_icons=true&locale=en&layout=compact" alt="eutolv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eutolv&show_icons=true&locale=en" alt="eutolv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eutolv&" alt="eutolv" /></p>
