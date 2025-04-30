@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eutolv" alt="eutolv" /></a> </p>
 
-- 🔭 Atualmente, estou trabalhando em um [Script de Pentest Automático](https://github.com/eutolv/pentest_script)
-
-- 🌱 Aprimorando minhas habilidades em **Bash, Linux e Conceitos de Segurança Cibernética (framework ATT&CK)**
+- 🔭 Atualmente, estou 🌱 Aprimorando minhas habilidades em **Linux (estudando para o LPIC-1)**
 
 - 🚀 Meus projetos incluem (mas não se limitam à) **automação de segurança, desenvolvimento de scripts e ferramentas para Linux**
 
