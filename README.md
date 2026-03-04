@@ -1,8 +1,6 @@
 <h1 align="center">Howdy, Partner! 🤠</h1>
 <h3 align="center">Programador | Cibersegurança, Linux e Automação</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eutolv" alt="eutolv" /></a> </p>
-
 - 🔭 Atualmente, estou 🌱 Aprimorando minhas habilidades em **Linux (estudando para o LPIC-1)**
 
 - 🚀 Meus projetos incluem (mas não se limitam à) **automação de segurança, desenvolvimento de scripts e ferramentas para Linux**
