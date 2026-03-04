@@ -1,13 +1,14 @@
 <h1 align="center">Howdy, Partner! 🤠</h1>
 <h3 align="center">Programador | Cibersegurança, Linux e Automação</h3>
 
+
 - 🔭 Atualmente, estou 🌱 Aprimorando minhas habilidades em **Linux (estudando para o LPIC-1)**
 
 - 🚀 Meus projetos incluem (mas não se limitam à) **automação de segurança, desenvolvimento de scripts e ferramentas para Linux**
 
 - 👨‍💻 Veja mais em [meu GitHub](https://github.com/eutolv)
 
-- 💬 Me pergunte sobre **Bash, Ruby e Auditoria de Segurança**
+- 💬 Me pergunte sobre **Linux, Bash e Terminal**
 
 - 📫 Contato: **jonathanjosegonzalez1996@hotmail.com**
 
